@@ -1,0 +1,1 @@
+Up and Running with Bash Scripting with Scott Simpson on Lynda.com
